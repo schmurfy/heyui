@@ -29509,7 +29509,7 @@ module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c
     on: {
       "click": _vm.focusSearchInput
     }
-  }, [_vm._v(_vm._s(_vm.singleValue))]) : _vm._e()] : [(_vm.hasValue) ? [(_vm.$scopedSlots.value) ? _c('div', {
+  }, [_vm._v(_vm._s(_vm.singleValue))]) : _vm._e()] : [(_vm.hasValue) ? [(!_vm.$scopedSlots.value) ? _c('div', {
     staticClass: "h-select-value-single"
   }, [_vm._v(_vm._s(_vm.singleValue))]) : _vm._t("value", null, {
     "value": _vm.singleValue
